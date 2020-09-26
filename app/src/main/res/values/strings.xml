@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IP Tools</string>
+    <string name="iptitle">00.00.00.00</string>
+    <string name="base_url">https://ipgeolocation.com</string>
+    <string name="country">Country:</string>
+    <string name="country_code">Country Code:</string>
+    <string name="region">Region:</string>
+    <string name="signal">Signal:</string>
+    <string name="city">City:</string>
+    <string name="lat">Latitude:</string>
+    <string name="lon">Longitude:</string>
+    <string name="speed">Speed:</string>
+    <string name="ssid">SSID:</string>
+    <string name="internalip">Internal IP:</string>
+    <string name="host">Host:</string>
+    <string name="macaddress">MAC Address:</string>
+    <string name="broadcast">Broadcast address:</string>
+    <string name="mask">Mask:</string>
+    <string name="gateway">Gateway:</string>
+    <string name="dns1">DNS(1) address:</string>
+    <string name="dns2">DNS(2) address:</string>
+    <string name="leaseduration">Lease duration:</string>
+    <string name="localhost">Localhost:</string>
+    <string name="asn">asn</string>
+    <string name="app_id">ca-app-pub-9138194992530204~4662156126</string>
+</resources>

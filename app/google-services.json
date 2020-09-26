@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600568308162",
+    "firebase_url": "https://ip-tools-a2a38.firebaseio.com",
+    "project_id": "ip-tools-a2a38",
+    "storage_bucket": "ip-tools-a2a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600568308162:android:63e2396f8f90d6aeb7765b",
+        "android_client_info": {
+          "package_name": "iptools.wifianalyzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600568308162-9phe3q0largu4pj6mo350a4epklg31p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWqw4gdRHYx1L3wSsbnW-glhfdiRhkyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600568308162-9phe3q0largu4pj6mo350a4epklg31p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
